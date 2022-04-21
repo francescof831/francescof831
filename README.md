@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @francescof831
 - 👀 I’m interested in developing my technological skills by creating different projects.
-- 🌱 I’m currently working on my website [I'm an inline-style link](https://frankie.digital).
+- 🌱 I’m currently working on my website [frankie.digital](https://frankie.digital).
 - 💞️ I’m looking to collaborate on nothing at the moment.
 - 📫 How to reach me francesco.forte831@gmail.com
 
